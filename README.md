@@ -5,6 +5,8 @@ This is another edit.
 <<<<<<< HEAD
 Lets add another line to this.
 Lets add a third line.
+This is another line for checking branching and merging.
+YaHoo!
 =======
 
 This is a third edit.
